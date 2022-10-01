@@ -9,9 +9,3 @@
 <p align="left">Feel free to message me!</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thallesbrandao/thallesbrandao/output/snake.svg" alt="Snake animation" />
-
-###
