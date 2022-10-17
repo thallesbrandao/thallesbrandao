@@ -8,5 +8,25 @@
 <p align="left">Participated in several projects, analysis and system maintenance for businesses and industries.</p>
 <p align="left">Feel free to message me!</p>
 
+<!-- TECNOLOGIAS -->
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+
+</div>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://instagram.com/thallesbran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thallesbrandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=thallesbran)
+</div>
+
 ###
 [![@thallesbrandao's Holopin board](https://holopin.io/api/user/board?user=thallesbrandao)](https://holopin.io/@thallesbrandao)
