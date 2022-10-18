@@ -11,8 +11,9 @@
 <!-- TECNOLOGIAS -->
 <div align="center">
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![PHP](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=Vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
