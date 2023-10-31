@@ -116,6 +116,5 @@
 </p>
 
 <div align="center">  
-
-  ![Viewrs](https://visitor-badge.glitch.me/badge?page_id=thallesbran)
+![](https://komarev.com/ghpvc/?username=thallesbran&color=gray)
 </div>
