@@ -116,5 +116,7 @@
 </p>
 
 <div align="center">  
+```markdown
 ![](https://komarev.com/ghpvc/?username=thallesbran&color=gray)
+```
 </div>
